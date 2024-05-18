@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\06Activity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\06Activity1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\06Activity1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\06Activity1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\06Activity1\06Activity1\bin\Debug\net8.0\06Activity1.exe
+C:\Users\Asus\source\repos\06Activity1\06Activity1\bin\Debug\net8.0\06Activity1.deps.json
+C:\Users\Asus\source\repos\06Activity1\06Activity1\bin\Debug\net8.0\06Activity1.runtimeconfig.json
+C:\Users\Asus\source\repos\06Activity1\06Activity1\bin\Debug\net8.0\06Activity1.dll
+C:\Users\Asus\source\repos\06Activity1\06Activity1\bin\Debug\net8.0\06Activity1.pdb
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\06Activity1.dll
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\refint\06Activity1.dll
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\06Activity1.pdb
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\06Activity1.genruntimeconfig.cache
+C:\Users\Asus\source\repos\06Activity1\06Activity1\obj\Debug\net8.0\ref\06Activity1.dll
